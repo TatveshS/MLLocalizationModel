@@ -1,1 +1,1 @@
-web: gunicorn app:modernAPi
+gunicorn app:modernAPi
